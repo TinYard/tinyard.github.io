@@ -1,38 +1,27 @@
 ---
-title: Welcome
+title: Welcome to TinYard
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+TinYard is an IoC-container written in C# for .NET that brings more features than just a bog-standard IoC-container.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
-
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
-
-### Getting Started
-
-Getting a message sent is quick and easy with ChatApp:
-
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+TinYard aims to improve your code by providing an easy-to-use IoC container and more through its powerful but simple extensibility.
 
 ### Features
 
-Explore more of ChatApp by reading about our features:
+The primary features of TinYard:
 
-#### Media
+#### IoC-Container
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
+TinYard, first and foremost, is an IoC-Container that wants to make your life easy via Dependency Injection (DI).
 
-#### Contact Syncing
+#### Modularity
 
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
+Modularity is a key component of TinYard. Thanks to the way TinYard was built, it's super easy to expand on the base framework and add lots of great `extensions` within it.
 
-#### Devices
+#### MVC Framework
 
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+TinYard doubles as an MVC Framework - if you desire it!
+
+You'll find that TinYard comes bundled with a few `extension`s, and `bundle`s, 
+a big one of these being the `MVC Bundle` that converts TinYard from being just an
+IoC-container into a whole MVC Framework.
