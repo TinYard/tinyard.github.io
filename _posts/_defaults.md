@@ -1,14 +1,12 @@
 ---
-title:
+title: Release x.x.x
 type: major
 ---
 
-This release introduces
+Release x.x.x
 
-**Features:**
+* What is new?
 
-*
+* What has changed?
 
-**Fixes:**
-
-*
+* Bug fixes
